@@ -29,7 +29,7 @@ Only main chapters:
 - **[CLI Tools](#cli-tools-toc)** 
 - **[GUI Tools](#gui-tools-toc)**
 - **[Nginx Rules](#nginx-rules-toc)**
-- **[Systems/Services](#systemsservices-toc)**
+- **[GPT Tools](#gpt-tools-toc)**
 
 #### CLI Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
@@ -53,9 +53,15 @@ curl -Iks https://www.google.com
 
 #### Nginx Rules &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
-##### :black_small_square: Network
+##### :black_small_square: Nginx Location规则优先级
 
 <p>
-&nbsp;&nbsp; <a href="https://www.putty.org/"><b>PuTTY</b></a> - is an SSH and telnet client, developed originally by Simon Tatham.<br>
+&nbsp;&nbsp; - is an SSH and telnet client, developed originally by Simon Tatham.<br>
 &nbsp;&nbsp; <a href="https://mosh.org/"><b>Mosh</b></a> - is a SSH wrapper designed to keep a SSH session alive over a volatile connection.<br>
 &nbsp;&nbsp; <a href="https://eternalterminal.dev/"><b>Eternal Terminal</b></a> - enables mouse-scrolling and tmux commands inside the SSH session.<br>
+
+#### GPT Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
+
+<p>
+&nbsp;&nbsp; <a href="https://chat04.a1r.cc/#/chat/1002"><b>Mosh</b></a> gpt-1<br>
+&nbsp;&nbsp; <a href="https://www.opkfc.com/list"><b>Mosh</b></a> gpt-2<br>
