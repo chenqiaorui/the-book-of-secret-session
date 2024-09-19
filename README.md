@@ -63,5 +63,5 @@ curl -Iks https://www.google.com
 #### GPT Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
 <p>
-&nbsp;&nbsp; <a href="https://chat04.a1r.cc/#/chat/1002"><b>Mosh</b></a> gpt-1<br>
-&nbsp;&nbsp; <a href="https://www.opkfc.com/list"><b>Mosh</b></a> gpt-2<br>
+&nbsp;&nbsp; <a href="https://chat04.a1r.cc/#/chat/1002"><b>免费GPT</b></a> gpt-1<br>
+&nbsp;&nbsp; <a href="https://www.opkfc.com/list"><b>免费GPT2</b></a> gpt-2<br>
