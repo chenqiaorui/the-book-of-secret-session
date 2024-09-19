@@ -51,7 +51,7 @@ curl -Iks https://www.google.com
   * `-k` - insecure connection when using ssl
   * `-s` - silent mode (not display body)
 
-#### Nginx Rules &nbsp;[<sup>[TOC]</sup>]
+#### Nginx Rules &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
 ##### :black_small_square: Network
 
